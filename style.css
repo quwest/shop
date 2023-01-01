@@ -1,0 +1,32 @@
+.nav_item {
+    margin-top: 15px;
+}
+.nav_item_2 {
+    margin-top: 14px;
+}
+
+.img_first {
+    size: 60px 60px;
+    border: solid #000000 1px;
+    margin: 20px;
+    text-align: center;
+    letter-spacing: 3px;
+    display: inline-block;
+}
+  
+.block_img { 
+    display: grid;
+	grid-template-columns: repeat(3, 1fr);
+    margin-left: 10%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.nav_footer {
+    margin-left: 60px;
+}
+
+.footer_item {
+    display: flex;
+}

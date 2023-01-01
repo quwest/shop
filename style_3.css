@@ -1,0 +1,23 @@
+.nav_item {
+    margin-top: 15px;
+}
+.nav_item_2 {
+    margin-top: 14px;
+}
+.all_picture {
+    display: inline-block;
+    padding: 0 20px 20px 0;
+}
+.block_pictures {
+    float: left;
+}
+.buy_button {
+    margin: 180px 20px;
+}
+.nav_footer {
+    margin-left: 60px;
+}
+
+.footer_item {
+    display: flex;
+}
